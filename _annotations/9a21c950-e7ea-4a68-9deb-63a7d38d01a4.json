@@ -1,0 +1,35 @@
+---
+canvas: "https://sim66666.github.io/annonatate/img/derivatives/iiif/OriolesXY/canvas/OriolesXY-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Raout Cru",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "sim66666",
+                "name": "sim66666"
+            },
+            "created": "2022-04-01T07:14:28.410Z",
+            "modified": "2022-04-01T07:15:04.074Z"
+        }
+    ],
+    "target": {
+        "source": "https://sim66666.github.io/annonatate/img/derivatives/iiif/OriolesXY/canvas/OriolesXY-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1163.8438720703125,444.50006103515625,1603.3751220703125,381.00006103515625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://sim66666.github.io/annonatate/img/derivatives/iiif/OriolesXY/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9a21c950-e7ea-4a68-9deb-63a7d38d01a4.json",
+    "motivation": "commenting"
+}
